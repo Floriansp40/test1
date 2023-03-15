@@ -5,7 +5,7 @@ import FlecheGauche from '../boutons/FlecheGauche.png'
 import FlecheDroite from '../boutons/FlecheDroite.png'
 
 // Création du carrousel
-const Carroussel = () =>  {
+const Carroussel = () => {
 
   // Récupération ID du cocktail  
   const { logementid } = useParams()
